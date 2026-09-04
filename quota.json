@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T19:30:40.556109+00:00",
+  "fetched_at": "2026-09-04T19:46:55.771710+00:00",
   "providers": {
     "anthropic": {
       "details": [],
@@ -53,7 +53,7 @@
       "windows": [
         {
           "label": "Session",
-          "reset_at": "2026-09-05T00:30:40+00:00",
+          "reset_at": "2026-09-05T00:46:55+00:00",
           "used_percent": 0.0
         },
         {
