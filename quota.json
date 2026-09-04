@@ -1,0 +1,81 @@
+{
+  "fetched_at": "2026-09-04T04:44:35.454922+00:00",
+  "providers": {
+    "anthropic": {
+      "details": [],
+      "label": "anthropic",
+      "plan": null,
+      "unavailable_reason": "no-data",
+      "windows": []
+    },
+    "copilot": {
+      "details": [],
+      "label": "copilot",
+      "plan": null,
+      "unavailable_reason": "no-credentials",
+      "windows": []
+    },
+    "gemini": {
+      "details": [],
+      "label": "gemini",
+      "plan": null,
+      "unavailable_reason": "no-credentials",
+      "windows": []
+    },
+    "grok": {
+      "details": [],
+      "label": "grok",
+      "plan": null,
+      "unavailable_reason": "opt-in-disabled",
+      "windows": []
+    },
+    "kimi": {
+      "details": [],
+      "label": "kimi",
+      "plan": null,
+      "unavailable_reason": "no-credentials",
+      "windows": []
+    },
+    "nous": {
+      "details": [],
+      "label": "nous",
+      "plan": null,
+      "unavailable_reason": "not-logged-in",
+      "windows": []
+    },
+    "openai-codex": {
+      "details": [
+        "You have 2 resets banked - use /usage reset to activate"
+      ],
+      "label": "openai-codex",
+      "plan": "Plus",
+      "unavailable_reason": null,
+      "windows": [
+        {
+          "label": "Session",
+          "reset_at": "2026-09-04T09:44:35+00:00",
+          "used_percent": 0.0
+        },
+        {
+          "label": "Weekly",
+          "reset_at": "2026-09-07T13:25:40+00:00",
+          "used_percent": 25.0
+        }
+      ]
+    },
+    "opencode-go": {
+      "details": [],
+      "label": "opencode-go",
+      "plan": null,
+      "unavailable_reason": "no-credentials",
+      "windows": []
+    },
+    "openrouter": {
+      "details": [],
+      "label": "openrouter",
+      "plan": null,
+      "unavailable_reason": "no-data",
+      "windows": []
+    }
+  }
+}
