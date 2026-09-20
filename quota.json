@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T19:42:45.144458+00:00",
+  "fetched_at": "2026-09-20T19:54:14.790462+00:00",
   "providers": {
     "anthropic": {
       "details": [],
@@ -53,17 +53,17 @@
       "windows": [
         {
           "label": "Session",
-          "reset_at": "2026-09-21T00:42:45+00:00",
+          "reset_at": "2026-09-21T00:54:14+00:00",
           "used_percent": 0.0
         },
         {
           "label": "Weekly",
-          "reset_at": "2026-09-27T19:42:45+00:00",
+          "reset_at": "2026-09-27T19:54:14+00:00",
           "used_percent": 0.0
         },
         {
           "label": "gpt-reserve \u00b7 5h",
-          "reset_at": "2026-09-27T19:42:45+00:00",
+          "reset_at": "2026-09-27T19:54:14+00:00",
           "used_percent": 0.0
         }
       ]
