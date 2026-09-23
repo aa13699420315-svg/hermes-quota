@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T02:49:10.948745+00:00",
+  "fetched_at": "2026-09-23T03:01:16.118781+00:00",
   "providers": {
     "anthropic": {
       "details": [],
@@ -63,7 +63,7 @@
         },
         {
           "label": "gpt-reserve \u00b7 5h",
-          "reset_at": "2026-09-30T02:49:10+00:00",
+          "reset_at": "2026-09-30T03:01:16+00:00",
           "used_percent": 0.0
         }
       ]
